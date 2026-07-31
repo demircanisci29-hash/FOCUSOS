@@ -1,0 +1,3 @@
+## Copy this file to `local.properties` (or let setup.ps1 generate it for you
+## from ANDROID_HOME / ANDROID_SDK_ROOT) and point it at your Android SDK:
+# sdk.dir=C\:\\Users\\YourName\\AppData\\Local\\Android\\Sdk
